@@ -5,4 +5,6 @@ package com.qing.bean;
  * @create 2021-02-09 10:38
  */
 public class User {
+    private String username;
+    private String password;
 }
